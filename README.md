@@ -114,7 +114,7 @@ NTUA-DataBases-2024/
 - Κωνσταντίνος Λιαπάκης,
 - Νίκος Αλεξανδρόπουλος,
 - Κωνσταντίνος Αλεξανδρόπουλος
-- 
+ 
 ## Course Information
 - **Course**: Databases
 - **Institution**: National Technical University of Athens (NTUA)
