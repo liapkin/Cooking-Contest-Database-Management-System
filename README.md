@@ -93,23 +93,6 @@ NTUA-DataBases-2024/
 - `fill_contest_recipe()` - Assigns recipes to contestants
 - `fill_rating()` - Generates ratings
 
-## Getting Started
-
-1. **Database Setup**
-   ```sql
-   -- Create database and tables
-   source database/cooking_contest DDL.sql
-   
-   -- Load sample data (if available)
-   source database/cooking_contest DML.sql
-   ```
-
-2. **Run Analytical Queries**
-   ```sql
-   -- Example: Find average ratings
-   source queries/01.average_rate_per_chef_and_cuisine.sql
-   ```
-
 ## Team Members
 - Κωνσταντίνος Λιαπάκης,
 - Νίκος Αλεξανδρόπουλος,
